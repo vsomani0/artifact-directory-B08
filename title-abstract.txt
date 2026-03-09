@@ -1,5 +1,13 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Large Language Models for Trauma Care Quality: 
+NTDS Complication AbstractionKaijie Zhang   Viv Soma
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The American College of Surgeons Committee on Trauma requires trauma
+centers to maintain surgical quality scores, which are critical for reporting
+trauma quality metrics. However, traditional registries are labor-intensive
+and costly. We use the Llama 8B Instruction model on AWS to streamline this
+process and tested out a variety of test-time inference techniques, including
+best-of-N with Chain of Thought prompting, beam search, and Diverse Verifier
+Tree Search (DVTS). Out of these, we obtained the best results with best-of-N
+with tree search
